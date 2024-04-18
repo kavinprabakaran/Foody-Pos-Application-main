@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "message": "Food fetched successfully",
+  "data": [
+    {
+      "_id": "661238816a51cbe33250b77c",
+      "name": "Idli",
+      "price": 30,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T06:09:06.014Z",
+      "updatedAt": "2024-04-07T06:09:06.014Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d084cf6f3ad26f4430d",
+      "name": "Dosa",
+      "price": 50,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:53:12.199Z",
+      "updatedAt": "2024-04-07T09:53:12.199Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d234cf6f3ad26f4430f",
+      "name": "Bisi bele bath",
+      "price": 35,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:53:39.365Z",
+      "updatedAt": "2024-04-07T09:53:39.365Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d344cf6f3ad26f44311",
+      "name": "Masala Dosa",
+      "price": 55,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:53:56.637Z",
+      "updatedAt": "2024-04-07T09:53:56.637Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d444cf6f3ad26f44313",
+      "name": "Mysore masala Dosa",
+      "price": 65,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:54:12.279Z",
+      "updatedAt": "2024-04-07T09:54:12.279Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d514cf6f3ad26f44315",
+      "name": "Onion Dosa",
+      "price": 65,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:54:25.978Z",
+      "updatedAt": "2024-04-07T09:54:25.978Z",
+      "__v": 0
+    },
+    {
+      "_id": "66126d604cf6f3ad26f44317",
+      "name": "Ghee Dosa",
+      "price": 55,
+      "qty": "0.25",
+      "qtyUnit": "kilograms",
+      "ratings": 5,
+      "createdAt": "2024-04-07T09:54:40.773Z",
+      "updatedAt": "2024-04-07T09:54:40.773Z",
+      "__v": 0
+    }
+  ]
+}
